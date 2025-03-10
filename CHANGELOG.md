@@ -13,4 +13,5 @@ All notable changes to this project will be documented in this file. The format 
 ### Changed
 - Changed game engine from Godot to Unity
 
-[1.0.0-dev+0001]: {link to version build or GitHub commit}
+# Releases
+[1.0.0-dev+0001](https://github.com/V-Kleio/Dreamweaver-Remastered-Releases/releases/tag/v1.0.0-dev%2B0001)
